@@ -1,6 +1,6 @@
 ![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)
 <h1 align="center">Hi 👋, I'm Alen Mujanovic</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Frontend Developer.</h3>
 
 
 - 👨‍💻 All of my projects are available in [https://github.com/AlenMujanovic?tab=repositories](https://github.com/AlenMujanovic?tab=repositories)
